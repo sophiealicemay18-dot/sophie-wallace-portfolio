@@ -1,0 +1,23 @@
+github-portfolio/
+├── master-index/
+│   └── README.md
+├── technical-index/
+│   ├── azure-infrastructure/
+│   ├── sql-performance/
+│   ├── github-actions/
+│   ├── deployment-architecture/
+│   ├── generative-ai/
+│   └── security-readiness/
+├── regulatory-index/
+│   ├── immigration-licensing/
+│   ├── legal-recovery/
+│   └── stripe-integration/
+├── creative-index/
+│   ├── music-school-tracker/
+│   └── portfolio-expansion-manifesto/
+├── reputation-index/
+│   ├── identity-protection/
+│   └── misrepresentation-tracker/
+├── optimization-index/
+│   ├── software-engineering-landscape/
+│   └── energy-boundary-audit/
