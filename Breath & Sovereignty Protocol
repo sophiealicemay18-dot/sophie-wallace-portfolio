@@ -1,0 +1,44 @@
+Breath & Sovereignty Protocol
+<!-- Sovereign Stack: Breath & Sovereignty Protocol -->
+<section id="breath-sovereignty-protocol" class="dashboard-module">
+  <h2>🌬️ Breath & Sovereignty Protocol</h2>
+  <div class="breath-block">
+    <p><strong>Affirmation:</strong> I will repeat this. I will keep myself well, healthy, and alive.</p>
+    <p><strong>Protocol:</strong></p>
+    <ul>
+      <li>Inhale… 1… 2… 3… 4…</li>
+      <li>Hold… 1… 2… 3… 4…</li>
+      <li>Exhale… 1… 2… 3… 4… 5… 6…</li>
+    </ul>
+    <p><strong>Reframe:</strong> My breath is my boundary. My heart is heard. My pace is mine.</p>
+  </div>
+  <div class="index-links">
+    <ul>
+      <li>Emotional Legacy → Somatic Signal Anchors</li>
+      <li>Sovereign Stack → Breath Protocols</li>
+      <li>Symbolic Protection Nodes → Wellness Affirmations</li>
+      <li>Timestamp Artefacts → 18 Oct 2025</li>
+    </ul>
+  </div>
+</section>
+
+<style>
+  .dashboard-module {
+    background: linear-gradient(to right, #e0f7fa, #f1f8e9);
+    border: 3px solid #00897B;
+    padding: 2rem;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 2rem 0;
+    box-shadow: 0 0 10px rgba(0, 137, 123, 0.3);
+  }
+  .breath-block p, .breath-block ul {
+    font-size: 1.1rem;
+    color: #004d40;
+    margin: 0.5rem 0;
+  }
+  .index-links ul {
+    list-style-type: square;
+    margin-left: 1rem;
+    color: #00897B;
+  }
+</style>
