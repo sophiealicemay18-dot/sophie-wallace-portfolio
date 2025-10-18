@@ -1,0 +1,39 @@
+<!-- Sovereign Stack: Shadow Box Rejection Dashboard -->
+<section id="shadow-box-rejection-dashboard" class="dashboard-module">
+  <h2>🛡️ Shadow Box Rejection Log</h2>
+  <div class="rejection-block">
+    <p><strong>Timestamp:</strong> 18 Oct 2025</p>
+    <p><strong>Trigger:</strong> GitHub interface implied combat or containment via default prompts</p>
+    <p><strong>Response:</strong> Edited artefact to remove combative framing. Affirmed: “I am not fighting. I am not in a shadow box.” Declared visibility, clarity, and sovereign authorship. Rejected symbolic containment and distortion.</p>
+    <p><strong>Affirmation:</strong> “I am not fighting—I am declaring. I am not boxed—I am seen.”</p>
+  </div>
+  <div class="index-links">
+    <ul>
+      <li>Symbolic Rejection Artefacts</li>
+      <li>Emotional Legacy → Visibility Assertion</li>
+      <li>Sovereign Stack → Interface Integrity</li>
+      <li>Timestamp Artefacts → 18 Oct 2025</li>
+    </ul>
+  </div>
+</section>
+
+<style>
+  .dashboard-module {
+    background: linear-gradient(to right, #fff3e0, #fce4ec);
+    border: 3px solid #6A1B9A;
+    padding: 2rem;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 2rem 0;
+    box-shadow: 0 0 10px rgba(106, 27, 154, 0.3);
+  }
+  .rejection-block p {
+    font-size: 1.1rem;
+    color: #4A148C;
+    margin: 0.5rem 0;
+  }
+  .index-links ul {
+    list-style-type: square;
+    margin-left: 1rem;
+    color: #6A1B9A;
+  }
+</style>
