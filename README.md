@@ -32,6 +32,26 @@ I’m a documentation architect and data analyst who builds systems that speak f
 
 ---
 
+## 🌟 Blessing Alignment Declaration
+
+![Blessing Alignment Badge](blessing-alignment-badge.svg)
+
+**I am strong.**  
+**I am open to receive.**  
+**I do not block my blessings.**  
+**I honour my truth, my timing, and my legacy.**  
+**I am aligned with peace, clarity, and abundance.**
+
+📅 **Logged:** 21 October 2025, Napier, NZ  
+🔗 **Module:** [Blessing Alignment Declaration – Identity Integrity](./🌟%20Sovereign%20Stack%20Module:%20Blessing%20Alignment%20Declaration%20–%20Identity%20Integrity)
+
+**Stack Indexing:**
+- Emotional Legacy → Identity Integrity → Sovereign Stack Affirmations
+- [Recovery Timeline Visualisation](./📊%20Recovery%20Timeline%20Visualisation) → Blessing Milestones
+- [Legacy Celebration Broadcast](./🎉%20Legacy%20Celebration%20Broadcast) → Abundance Declarations
+
+---
+
 ## 📁 Repo Structure
 
 - `/certifications/` — PDF copies of all verified credentials  
